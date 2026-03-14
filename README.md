@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Strainer 👋
 
-<!--
-**ignstrainer/ignstrainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Minecraft Oriented  
+💻 Plugin Developer
 
-Here are some ideas to get you started:
+Reach me on Discord @strainer1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+![Minecraft Plugin Developer](https://img.shields.io/badge/Minecraft-Server-green)
+![Discord Bot Developer](https://img.shields.io/badge/Discord-Bot%20Developer-5865F2?logo=discord&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ignstrainer&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=ignstrainer)
+
+---
