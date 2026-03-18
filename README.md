@@ -1,7 +1,6 @@
 # Hi, I'm Strainer 👋
 
 🎮 Minecraft Oriented  
-💻 Plugin Developer & Game Design
 
 Reach me on Discord @strainer1
 
