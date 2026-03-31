@@ -17,11 +17,6 @@ Reach me on Discord @strainer1
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ignstrainer&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ignstrainer)
 
