@@ -1,5 +1,6 @@
 # Hi, I'm Strainer 👋
 
+💻 Plugin Developer
 🎮 Minecraft Oriented  
 
 Reach me on Discord @strainer1
