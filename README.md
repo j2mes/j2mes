@@ -1,9 +1,9 @@
-# Hi, I'm Strainer 👋
+# Hi, I'm James 👋
 
 💻 Plugin Developer
 🎮 Minecraft Oriented  
 
-Reach me on Discord @strainer1
+Reach me on Discord @j2.mes
 
 ---
 
