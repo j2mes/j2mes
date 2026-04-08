@@ -1,6 +1,7 @@
 # Hi, I'm James 👋
 
-💻 Plugin Developer
+💻 Java, Discord & Web Developer
+
 🎮 Minecraft Oriented  
 
 Reach me on Discord @j2.mes
