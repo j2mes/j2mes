@@ -18,6 +18,6 @@ Reach me on Discord @j2.mes
 ---
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=ignstrainer)
+![GitHub Streak](https://streak-stats.demolab.com/?user=j2mes)
 
 ---
